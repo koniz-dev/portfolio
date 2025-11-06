@@ -1,0 +1,3 @@
+[submodule "rpm-blender-sketchfab"]
+	path = rpm-blender-sketchfab
+	url = https://github.com/koniz-dev/rpm-blender-sketchfab.git
