@@ -1,3 +1,9 @@
 [submodule "rpm-blender-sketchfab"]
 	path = rpm-blender-sketchfab
 	url = https://github.com/koniz-dev/rpm-blender-sketchfab.git
+[submodule "koniz-dev"]
+	path = koniz-dev
+	url = https://github.com/koniz-dev/koniz-dev.git
+[submodule "koniz-portfolio"]
+	path = koniz-portfolio
+	url = https://github.com/koniz-dev/koniz-portfolio.git
